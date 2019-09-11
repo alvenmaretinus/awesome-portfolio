@@ -1,0 +1,22 @@
+h1 {
+  color: #ffff00;
+  font-size: 100px;
+}
+
+img {
+  display: block;
+  width: 150px;
+  margin-bottom: 16px;
+  padding: 32px;
+  /* your comment here */
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.image1 {
+  width: 300px;
+  background: red;
+}
+
+.image2 {
+  width: 1000px;
+}
